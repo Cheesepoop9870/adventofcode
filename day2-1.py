@@ -1,3 +1,4 @@
+#NOTE: TAKES A FEW SECS TO RUN
 import re #import regular expression :D
 rangelist = input("h:").split(",")
 # max length of invalid is 6, and all invalid ids have an even length
