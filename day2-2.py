@@ -1,3 +1,5 @@
+#note, takes ~7 min to run
+
 import re #import regular expression :D
 
 def getfactors(x):
